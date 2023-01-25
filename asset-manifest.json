@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/raffle-app/static/js/main.6a139aa2.js",
+    "static/media/box_logo.png": "/raffle-app/static/media/box_logo.0aaa67fc695581288e11.png",
+    "index.html": "/raffle-app/index.html",
+    "main.6a139aa2.js.map": "/raffle-app/static/js/main.6a139aa2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6a139aa2.js"
+  ]
+}
