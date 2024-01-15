@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/raffle-app/static/js/main.6a139aa2.js",
+    "main.js": "/raffle-app/static/js/main.25a965bd.js",
     "static/media/box_logo.png": "/raffle-app/static/media/box_logo.0aaa67fc695581288e11.png",
     "index.html": "/raffle-app/index.html",
-    "main.6a139aa2.js.map": "/raffle-app/static/js/main.6a139aa2.js.map"
+    "main.25a965bd.js.map": "/raffle-app/static/js/main.25a965bd.js.map"
   },
   "entrypoints": [
-    "static/js/main.6a139aa2.js"
+    "static/js/main.25a965bd.js"
   ]
 }
