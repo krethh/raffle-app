@@ -108,12 +108,8 @@ const Participant = ({ participant }) => {
   var g = (rgb >> 8) & 0xff;  // extract green
   var b = (rgb >> 0) & 0xff;  // extract blue
 
-  var luma = 0.2126 * r + 0.7152 * g + 0.0722 * b; // per ITU-R BT.709
-
-  const fontColor = luma < 50 ? 'white' : 'black';
-
   return (
-    <Frame style={{ backgroundColor: `#${color}`, color: fontColor }}>
+    <Frame style={{ backgroundColor: `rgba(${r}, ${g}, ${b}, 0.5)`, color: 'black', fontWeight: "bold"}}>
       {name} - {points}
     </Frame>)
 }
